@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
+<<<<<<< HEAD
     <deckname>Sliver overlord 5</deckname>
     <comments>commander deck  Versión 5:
 Básicas:  7G-4U-2R-2W-1B:::15
@@ -74,6 +75,13 @@ Busca básicas: Artefactos(3|4)
         <card number="1" name="Circular Logic"/>
         <card number="1" name="Rampant Growth"/>
     </zone>
+=======
+    <deckname>Sliver overlord </deckname>
+    <comments>commander deck  Versión 12:
+31 creaturas
+
+30 tierras 3 buscan  14  basics</comments>
+>>>>>>> cambiosA
     <zone name="main">
         <card number="1" name="Land Grant"/>
         <card number="1" name="Smothering Tithe"/>
@@ -164,11 +172,37 @@ Busca básicas: Artefactos(3|4)
         <card number="1" name="Jungle Shrine"/>
         <card number="1" name="Savage Lands"/>
         <card number="1" name="Eerie Interlude"/>
+<<<<<<< HEAD
         <card number="1" name="Nameless Inversion"/>
         <card number="1" name="Shields of Velis Vel"/>
     </zone>
     <zone name="tokens">
         <card number="1" name="Sliver"/>
         <card number="1" name="Metallic Sliver (token)"/>
+=======
+        <card number="1" name="Safewright Quest"/>
+        <card number="1" name="Return from Extinction"/>
+        <card number="1" name="Crib Swap"/>
+        <card number="1" name="Diffusion Sliver"/>
+        <card number="1" name="Dregscape Sliver"/>
+        <card number="1" name="The First Sliver"/>
+        <card number="1" name="Cloudshredder Sliver"/>
+        <card number="1" name="Morophon, the Boundless"/>
+        <card number="1" name="Hall of Heliod's Generosity"/>
+        <card number="1" name="Prismatic Vista"/>
+        <card number="1" name="Hibernation Sliver"/>
+        <card number="1" name="Psionic Sliver"/>
+        <card number="1" name="Syphon Sliver"/>
+        <card number="1" name="Wargate"/>
+        <card number="1" name="Cryptolith Rite"/>
+        <card number="1" name="Force of Vigor"/>
+        <card number="1" name="Bring to Light"/>
+        <card number="1" name="Caravan Vigil"/>
+        <card number="1" name="Crop Rotation"/>
+        <card number="1" name="Eldritch Evolution"/>
+        <card number="1" name="Golos, Tireless Pilgrim"/>
+        <card number="1" name="Ghostflame Sliver"/>
+        <card number="1" name="Biomancer's Familiar"/>
+>>>>>>> cambiosA
     </zone>
 </cockatrice_deck>
