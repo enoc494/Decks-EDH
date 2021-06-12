@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Arcades -defensores</deckname>
+    <comments>Pues control y defensores EDH</comments>
+    <zone name="main">
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Steel Wall"/>
+        <card number="1" name="Bonded Fetch"/>
+        <card number="1" name="Seaside Citadel"/>
+        <card number="1" name="Tetsuko Umezawa, Fugitive"/>
+        <card number="1" name="Wall of Blossoms"/>
+        <card number="1" name="Wall of Roots"/>
+        <card number="1" name="Jeskai Barricade"/>
+        <card number="1" name="Irrigated Farmland"/>
+        <card number="1" name="Assault Formation"/>
+        <card number="1" name="Azorius Signet"/>
+        <card number="1" name="Mental Misstep"/>
+        <card number="1" name="Simic Signet"/>
+        <card number="1" name="Vine Trellis"/>
+        <card number="1" name="Selesnya Signet"/>
+        <card number="1" name="Scattered Groves"/>
+        <card number="1" name="Familiar's Ruse"/>
+        <card number="1" name="Wall of Denial"/>
+        <card number="1" name="High Alert"/>
+        <card number="1" name="Wall of Omens"/>
+        <card number="1" name="Overgrown Battlement"/>
+        <card number="1" name="Shield Sphere"/>
+        <card number="4" name="Island"/>
+        <card number="2" name="Forest"/>
+        <card number="2" name="Plains"/>
+        <card number="1" name="Wall of Mulch"/>
+        <card number="1" name="Geist of the Archives"/>
+        <card number="1" name="Wall of Runes"/>
+        <card number="1" name="Ponder"/>
+        <card number="1" name="The Birth of Meletis"/>
+        <card number="1" name="Nature's Claim"/>
+        <card number="1" name="Swan Song"/>
+        <card number="1" name="Daze"/>
+        <card number="1" name="Rewind"/>
+        <card number="1" name="Remand"/>
+        <card number="1" name="Lightning Greaves"/>
+        <card number="1" name="Mindbreak Trap"/>
+        <card number="1" name="Fact or Fiction"/>
+        <card number="1" name="Windfall"/>
+        <card number="1" name="Predict"/>
+        <card number="1" name="Dispel"/>
+        <card number="1" name="Disallow"/>
+        <card number="1" name="Abzan Beastmaster"/>
+        <card number="1" name="Krosan Verge"/>
+        <card number="1" name="Terramorphic Expanse"/>
+        <card number="1" name="Evolving Wilds"/>
+        <card number="1" name="Slaughter the Strong"/>
+        <card number="1" name="Breeding Pool"/>
+        <card number="1" name="Hallowed Fountain"/>
+        <card number="1" name="Prairie Stream"/>
+        <card number="1" name="Temple Garden"/>
+        <card number="1" name="Teferi's Protection"/>
+        <card number="1" name="Sublime Epiphany"/>
+        <card number="1" name="Axebane Guardian"/>
+        <card number="1" name="Drift of Phantasms"/>
+        <card number="1" name="Riptide Turtle"/>
+        <card number="1" name="Sunscape Familiar"/>
+        <card number="1" name="Sylvan Caryatid"/>
+        <card number="1" name="Mystic Gate"/>
+        <card number="1" name="Flooded Grove"/>
+        <card number="1" name="Wooded Bastion"/>
+        <card number="1" name="Talisman of Unity"/>
+        <card number="1" name="Talisman of Progress"/>
+        <card number="1" name="Talisman of Curiosity"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Stifle"/>
+        <card number="1" name="Foreshadow"/>
+        <card number="1" name="Unsubstantiate"/>
+        <card number="1" name="Temple of Mystery"/>
+        <card number="1" name="Temple of Enlightenment"/>
+        <card number="1" name="Veil of Summer"/>
+        <card number="1" name="Gush"/>
+        <card number="1" name="Sidar Kondo of Jamuraa"/>
+        <card number="1" name="Castle Vantress"/>
+        <card number="1" name="Armillary Sphere"/>
+        <card number="1" name="Path to Exile"/>
+        <card number="1" name="Memory Lapse"/>
+        <card number="1" name="Silundi Vision"/>
+        <card number="1" name="Simic Growth Chamber"/>
+        <card number="1" name="Temple of Plenty"/>
+        <card number="1" name="Azorius Chancery"/>
+        <card number="1" name="Selesnya Sanctuary"/>
+        <card number="1" name="Commit // Memory"/>
+        <card number="1" name="Dusk // Dawn"/>
+        <card number="1" name="Failure // Comply"/>
+        <card number="1" name="Delay"/>
+        <card number="1" name="Generous Gift"/>
+        <card number="1" name="Narset's Reversal"/>
+        <card number="1" name="Wall of Tanglecord"/>
+        <card number="1" name="Hengegate Pathway"/>
+        <card number="1" name="Hinterland Harbor"/>
+        <card number="1" name="Rejuvenating Springs"/>
+        <card number="1" name="Branchloft Pathway"/>
+        <card number="1" name="Barkchannel Pathway"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Arcades, the Strategist"/>
+        <card number="1" name="Blossoming Sands"/>
+        <card number="1" name="Marble Titan"/>
+        <card number="1" name="Commandeer"/>
+        <card number="1" name="Guardians of Meletis"/>
+        <card number="1" name="Annul"/>
+        <card number="1" name="Brainstorm"/>
+        <card number="1" name="Beast Within"/>
+        <card number="1" name="Generous Gift"/>
+        <card number="1" name="Gush"/>
+        <card number="1" name="Misdirection"/>
+        <card number="1" name="Narset's Reversal"/>
+        <card number="1" name="Tower Defense"/>
+        <card number="1" name="Guard Gomazoa"/>
+        <card number="1" name="Orator of Ojutai"/>
+        <card number="1" name="Perimeter Captain"/>
+        <card number="1" name="Wave of Reckoning"/>
+        <card number="1" name="Mystic Confluence"/>
+        <card number="1" name="Tale's End"/>
+        <card number="1" name="Doorkeeper"/>
+        <card number="1" name="Gatecreeper Vine"/>
+        <card number="1" name="Wall of Reverence"/>
+        <card number="2" name="Graypelt Refuge"/>
+        <card number="1" name="Canopy Vista"/>
+        <card number="2" name="Sejiri Refuge"/>
+        <card number="1" name="Temple of Plenty"/>
+        <card number="1" name="Circular Logic"/>
+        <card number="2" name="Foil"/>
+        <card number="1" name="Glacial Wall"/>
+        <card number="1" name="Wall of Frost"/>
+        <card number="1" name="Wall of Hope"/>
+        <card number="1" name="Lawmage's Binding"/>
+        <card number="2" name="Reliquary Tower"/>
+        <card number="1" name="Reshape"/>
+        <card number="1" name="Selesnya Sanctuary"/>
+        <card number="1" name="Simic Growth Chamber"/>
+        <card number="1" name="Hapatra's Mark"/>
+        <card number="1" name="Ranger's Guile"/>
+        <card number="2" name="Mizzium Skin"/>
+        <card number="1" name="Alexi's Cloak"/>
+        <card number="2" name="Nature's Chant"/>
+        <card number="1" name="Serum Visions"/>
+        <card number="1" name="Fortified Rampart"/>
+        <card number="1" name="Hover Barrier"/>
+        <card number="1" name="Junktroller"/>
+        <card number="1" name="Harrow"/>
+        <card number="1" name="Thriving Grove"/>
+        <card number="1" name="Thriving Heath"/>
+        <card number="1" name="Thriving Isle"/>
+        <card number="1" name="Crucible of the Spirit Dragon"/>
+        <card number="1" name="Angelic Wall"/>
+        <card number="1" name="Aegis Turtle"/>
+        <card number="1" name="Jaddi Offshoot"/>
+        <card number="1" name="Mana Crypt"/>
+        <card number="1" name="Opt"/>
+        <card number="1" name="Swiftfoot Boots"/>
+        <card number="1" name="Noble Hierarch"/>
+        <card number="1" name="Teferi's Ageless Insight"/>
+        <card number="2" name="Arcane Denial"/>
+        <card number="1" name="Hinterland Harbor"/>
+        <card number="1" name="Sunpetal Grove"/>
+        <card number="1" name="Azorius Chancery"/>
+        <card number="1" name="Voidslime"/>
+        <card number="1" name="Mana Leak"/>
+        <card number="1" name="Dusk"/>
+        <card number="1" name="Unbreakable Formation"/>
+        <card number="1" name="Mirror Shield"/>
+        <card number="1" name="Heroic Intervention"/>
+        <card number="1" name="Calciform Pools"/>
+        <card number="1" name="Saltcrusted Steppe"/>
+        <card number="1" name="Spellweaver Volute"/>
+        <card number="1" name="Flawless Maneuver"/>
+        <card number="1" name="Farseek"/>
+        <card number="1" name="Eerie Interlude"/>
+        <card number="1" name="Fell the Mighty"/>
+        <card number="1" name="Lithoform Engine"/>
+        <card number="1" name="Counterspell"/>
+        <card number="1" name="Fog Bank"/>
+        <card number="1" name="Bear Umbra"/>
+        <card number="1" name="Force of Will"/>
+        <card number="1" name="Power Sink"/>
+        <card number="1" name="Disappearing Act"/>
+        <card number="1" name="Divert"/>
+        <card number="1" name="Negate"/>
+        <card number="1" name="Guardian Project"/>
+        <card number="1" name="Portent"/>
+        <card number="1" name="Mistgate Pathway"/>
+        <card number="1" name="Adarkar Wastes"/>
+        <card number="1" name="Brushland"/>
+        <card number="1" name="Yavimaya Coast"/>
+    </zone>
+</cockatrice_deck>

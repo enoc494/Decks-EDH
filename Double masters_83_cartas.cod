@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Double masters </deckname>
+    <comments>Verisón para sacar costos fast
+
+36 miticas//106 raras ? </comments>
+    <zone name="main">
+        <card number="1" name="Council's Judgment"/>
+        <card number="1" name="Wrath of God"/>
+        <card number="1" name="Jace, the Mind Sculptor"/>
+        <card number="1" name="Cyclonic Rift"/>
+        <card number="1" name="Karn Liberated"/>
+        <card number="1" name="Dark Confidant"/>
+        <card number="1" name="Sneak Attack"/>
+        <card number="1" name="Doubling Season"/>
+        <card number="1" name="Kemba, Kha Regent"/>
+        <card number="1" name="Force of Will"/>
+        <card number="1" name="Skithiryx, the Blight Dragon"/>
+        <card number="1" name="Godo, Bandit Warlord"/>
+        <card number="1" name="Vengevine"/>
+        <card number="1" name="Austere Command"/>
+        <card number="1" name="Arcum Dagsson"/>
+        <card number="1" name="Beacon of Unrest"/>
+        <card number="1" name="Blasphemous Act"/>
+        <card number="1" name="Thragtusk"/>
+        <card number="1" name="Blade Splicer"/>
+        <card number="1" name="Braids, Conjurer Adept"/>
+        <card number="1" name="Doomed Necromancer"/>
+        <card number="1" name="Cragganwick Cremator"/>
+        <card number="1" name="Greater Good"/>
+        <card number="1" name="Boon Reflection"/>
+        <card number="1" name="Well of Ideas"/>
+        <card number="1" name="Magus of the Abyss"/>
+        <card number="1" name="Heat Shimmer"/>
+        <card number="1" name="Chord of Calling"/>
+        <card number="1" name="Grand Architect"/>
+        <card number="1" name="Grim Lavamancer"/>
+        <card number="1" name="Noble Hierarch"/>
+        <card number="1" name="Stonehewer Giant"/>
+        <card number="1" name="Master of Etherium"/>
+        <card number="1" name="Rolling Earthquake"/>
+        <card number="1" name="Champion of Lambholt"/>
+        <card number="1" name="Master Transmuter"/>
+        <card number="1" name="Exploration"/>
+        <card number="1" name="Phyrexian Metamorph"/>
+        <card number="1" name="Terastodon"/>
+        <card number="1" name="Reshape"/>
+        <card number="1" name="Thought Reflection"/>
+        <card number="1" name="Atraxa, Praetors' Voice"/>
+        <card number="1" name="Breya, Etherium Shaper"/>
+        <card number="1" name="Kaalia of the Vast"/>
+        <card number="1" name="Geist of Saint Traft"/>
+        <card number="1" name="Meddling Mage"/>
+        <card number="1" name="Voice of Resurgence"/>
+        <card number="1" name="Rhys the Redeemed"/>
+        <card number="1" name="Baleful Strix"/>
+        <card number="1" name="Sharuum the Hegemon"/>
+        <card number="1" name="Sphinx Summoner"/>
+        <card number="1" name="Sword of Fire and Ice"/>
+        <card number="1" name="Mox Opal"/>
+        <card number="1" name="Ensnaring Bridge"/>
+        <card number="1" name="Blightsteel Colossus"/>
+        <card number="1" name="Mana Crypt"/>
+        <card number="1" name="Sword of War and Peace"/>
+        <card number="1" name="Trinisphere"/>
+        <card number="1" name="Wurmcoil Engine"/>
+        <card number="1" name="Basilisk Collar"/>
+        <card number="1" name="Walking Ballista"/>
+        <card number="1" name="Masterwork of Ingenuity"/>
+        <card number="1" name="Hammer of Nazahn"/>
+        <card number="1" name="Duplicant"/>
+        <card number="1" name="Myr Battlesphere"/>
+        <card number="1" name="Kuldotha Forgemaster"/>
+        <card number="1" name="Bosh, Iron Golem"/>
+        <card number="1" name="Conjurer's Closet"/>
+        <card number="1" name="Engineered Explosives"/>
+        <card number="1" name="Lux Cannon"/>
+        <card number="1" name="Sculpting Steel"/>
+        <card number="1" name="Sundering Titan"/>
+        <card number="1" name="Sunforger"/>
+        <card number="1" name="Dark Depths"/>
+        <card number="1" name="Academy Ruins"/>
+        <card number="1" name="Blinkmoth Nexus"/>
+        <card number="1" name="Glimmervoid"/>
+        <card number="1" name="Thespian's Stage"/>
+        <card number="1" name="Mystic Gate"/>
+        <card number="1" name="Sunken Ruins"/>
+        <card number="1" name="Graven Cairns"/>
+        <card number="1" name="Fire-Lit Thicket"/>
+        <card number="1" name="Wooded Bastion"/>
+        <card number="1" name="Heartbeat of Spring"/>
+        <card number="1" name="Jhoira, Weatherlight Captain"/>
+        <card number="1" name="Chrome Mox"/>
+        <card number="1" name="Ethersworn Canonist"/>
+        <card number="1" name="Land Tax"/>
+        <card number="1" name="Archangel of Thune"/>
+        <card number="1" name="Avenger of Zendikar"/>
+        <card number="1" name="Goblin Guide"/>
+        <card number="1" name="Puresteel Paladin"/>
+        <card number="1" name="Death's Shadow"/>
+        <card number="1" name="Blood Moon"/>
+        <card number="1" name="Open the Vaults"/>
+        <card number="1" name="Salvage Titan"/>
+        <card number="1" name="Tuktuk the Explorer"/>
+        <card number="1" name="Mana Reflection"/>
+        <card number="1" name="Ion Storm"/>
+        <card number="1" name="Liege of the Tangle"/>
+        <card number="1" name="Shamanic Revelation"/>
+        <card number="1" name="Skirsdag High Priest"/>
+        <card number="1" name="Vish Kal, Blood Arbiter"/>
+        <card number="1" name="Lightning Greaves"/>
+        <card number="1" name="Sen Triplets"/>
+        <card number="1" name="Time Sieve"/>
+        <card number="1" name="Swiftblade Vindicator"/>
+        <card number="1" name="Falkenrath Aristocrat"/>
+        <card number="1" name="Stoneforge Mystic"/>
+        <card number="1" name="Arixmethes, Slumbering Isle"/>
+        <card number="1" name="Magus of the Will"/>
+        <card number="1" name="Mazirek, Kraul Death Priest"/>
+        <card number="1" name="Phyrexian Revoker"/>
+        <card number="1" name="Spellskite"/>
+        <card number="1" name="Adaptive Automaton"/>
+        <card number="1" name="Endless Atlas"/>
+        <card number="1" name="Brudiclad, Telchor Engineer"/>
+        <card number="1" name="Batterskull"/>
+        <card number="1" name="Geth, Lord of the Vault"/>
+        <card number="1" name="Savageborn Hydra"/>
+        <card number="1" name="Ravenous Trap"/>
+        <card number="1" name="Ratchet Bomb"/>
+        <card number="1" name="Avacyn, Angel of Hope"/>
+        <card number="1" name="Hanna, Ship's Navigator"/>
+        <card number="1" name="Maze of Ith"/>
+        <card number="1" name="Oblivion Stone"/>
+        <card number="1" name="Darksteel Forge"/>
+        <card number="1" name="Inkwell Leviathan"/>
+        <card number="1" name="Progenitor Mimic"/>
+        <card number="1" name="Vexing Shusher"/>
+        <card number="1" name="Wound Reflection"/>
+        <card number="1" name="Rage Reflection"/>
+        <card number="1" name="Merciless Eviction"/>
+        <card number="1" name="Ad Nauseam"/>
+        <card number="1" name="Thoughtseize"/>
+        <card number="1" name="Bloodspore Thrinax"/>
+        <card number="1" name="Sword of Feast and Famine"/>
+        <card number="1" name="Tempered Steel"/>
+        <card number="1" name="Maelstrom Nexus"/>
+        <card number="1" name="Karrthus, Tyrant of Jund"/>
+        <card number="1" name="Toxic Deluge"/>
+        <card number="1" name="Mesmeric Orb"/>
+        <card number="1" name="Sword of Body and Mind"/>
+        <card number="1" name="Sword of Light and Shadow"/>
+    </zone>
+</cockatrice_deck>

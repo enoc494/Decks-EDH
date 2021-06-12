@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Prosh</deckname>
+    <comments>Deck economico, de 200dls máximo</comments>
+    <zone name="main">
+        <card number="1" name="Cultivate"/>
+        <card number="1" name="Gamble"/>
+        <card number="1" name="Faithless Looting"/>
+        <card number="1" name="Eldritch Evolution"/>
+        <card number="1" name="Nature's Claim"/>
+        <card number="1" name="Pyroblast"/>
+        <card number="1" name="Seedtime"/>
+        <card number="1" name="Red Elemental Blast"/>
+        <card number="1" name="Dark Ritual"/>
+        <card number="1" name="Rakdos Charm"/>
+        <card number="1" name="Guttural Response"/>
+        <card number="1" name="Hero's Downfall"/>
+        <card number="1" name="Fresh Meat"/>
+        <card number="1" name="Autumn's Veil"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Domri, Anarch of Bolas"/>
+        <card number="1" name="Xenagos, the Reveler"/>
+        <card number="1" name="Deathrite Shaman"/>
+        <card number="1" name="Zulaport Cutthroat"/>
+        <card number="1" name="Sakura-Tribe Elder"/>
+        <card number="1" name="Birds of Paradise"/>
+        <card number="1" name="Faerie Macabre"/>
+        <card number="1" name="Elvish Visionary"/>
+        <card number="1" name="Eternal Scourge"/>
+        <card number="1" name="Llanowar Elves"/>
+        <card number="1" name="Reclamation Sage"/>
+        <card number="1" name="Arbor Elf"/>
+        <card number="1" name="Elves of Deep Shadow"/>
+        <card number="1" name="Hissing Iguanar"/>
+        <card number="1" name="Decimator of the Provinces"/>
+        <card number="1" name="Anger"/>
+        <card number="1" name="Eternal Witness"/>
+        <card number="1" name="Blood Artist"/>
+        <card number="1" name="Sylvan Ranger"/>
+        <card number="1" name="Squee, the Immortal"/>
+        <card number="1" name="Goblin Sharpshooter"/>
+        <card number="1" name="Wood Elves"/>
+        <card number="1" name="Priest of Forgotten Gods"/>
+        <card number="1" name="Goblin Bushwhacker"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Foreboding Ruins"/>
+        <card number="1" name="Dragonskull Summit"/>
+        <card number="1" name="Rootbound Crag"/>
+        <card number="1" name="Kher Keep"/>
+        <card number="1" name="Fecundity"/>
+        <card number="1" name="Impact Tremors"/>
+        <card number="1" name="Rhythm of the Wild"/>
+        <card number="1" name="Beastmaster Ascension"/>
+        <card number="1" name="Goblin Bombardment"/>
+        <card number="1" name="Food Chain"/>
+        <card number="1" name="Krosan Grip"/>
+        <card number="1" name="Blighted Woodland"/>
+        <card number="1" name="Beast Within"/>
+        <card number="1" name="Woodland Cemetery"/>
+        <card number="1" name="Skullclamp"/>
+        <card number="1" name="Swamp"/>
+        <card number="17" name="Forest"/>
+        <card number="8" name="Mountain"/>
+        <card number="1" name="Prossh, Skyraider of Kher"/>
+    </zone>
+</cockatrice_deck>

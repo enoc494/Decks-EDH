@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="6" name="Crystalline Sliver"/>
+        <card number="6" name="Muscle Sliver"/>
+        <card number="2" name="Manaweft Sliver"/>
+        <card number="2" name="Sinew Sliver"/>
+        <card number="2" name="Harmonic Sliver"/>
+        <card number="1" name="Mesmeric Sliver"/>
+        <card number="1" name="Sliversmith"/>
+        <card number="1" name="Lymph Sliver"/>
+        <card number="2" name="Homing Sliver"/>
+        <card number="2" name="Frenzy Sliver"/>
+        <card number="2" name="Virulent Sliver"/>
+        <card number="2" name="Sliver Legion"/>
+        <card number="3" name="Brood Sliver"/>
+        <card number="3" name="Spectral Sliver"/>
+        <card number="3" name="Quick Sliver"/>
+        <card number="3" name="Necrotic Sliver"/>
+        <card number="3" name="Sliver Overlord"/>
+        <card number="3" name="Acidic Sliver"/>
+        <card number="3" name="Hibernation Sliver"/>
+        <card number="3" name="Victual Sliver"/>
+        <card number="4" name="Spined Sliver"/>
+        <card number="2" name="Heart Sliver"/>
+        <card number="3" name="Barbed Sliver"/>
+        <card number="3" name="Metallic Sliver"/>
+        <card number="3" name="Clot Sliver"/>
+        <card number="3" name="Armor Sliver"/>
+        <card number="3" name="Winged Sliver"/>
+        <card number="2" name="Might Sliver"/>
+        <card number="2" name="Fungus Sliver"/>
+        <card number="2" name="Gemhide Sliver"/>
+        <card number="2" name="Fury Sliver"/>
+        <card number="1" name="Synapse Sliver"/>
+        <card number="1" name="Shifting Sliver"/>
+        <card number="1" name="Plated Sliver"/>
+        <card number="1" name="Ward Sliver"/>
+        <card number="1" name="Mistform Sliver"/>
+        <card number="3" name="Toxin Sliver"/>
+        <card number="2" name="Crypt Sliver"/>
+        <card number="2" name="Root Sliver"/>
+        <card number="2" name="Magma Sliver"/>
+        <card number="2" name="Hunter Sliver"/>
+        <card number="2" name="Blade Sliver"/>
+        <card number="2" name="Essence Sliver"/>
+        <card number="1" name="Blur Sliver"/>
+        <card number="1" name="Sentinel Sliver"/>
+        <card number="1" name="Steelform Sliver"/>
+        <card number="1" name="Sliver Construct"/>
+        <card number="1" name="Striking Sliver"/>
+        <card number="1" name="Galerider Sliver"/>
+        <card number="1" name="Battle Sliver"/>
+        <card number="1" name="Syphon Sliver"/>
+        <card number="1" name="Thorncaster Sliver"/>
+        <card number="1" name="Groundshaker Sliver"/>
+        <card number="1" name="Predatory Sliver"/>
+        <card number="2" name="Bonescythe Sliver"/>
+        <card number="3" name="Megantic Sliver"/>
+        <card number="1" name="Belligerent Sliver"/>
+        <card number="1" name="Constricting Sliver"/>
+        <card number="1" name="Sliver Hive"/>
+        <card number="1" name="Leeching Sliver"/>
+        <card number="1" name="Diffusion Sliver"/>
+        <card number="2" name="Sliver Hivelord"/>
+        <card number="2" name="Venom Sliver"/>
+        <card number="1" name="Scuttling Sliver"/>
+        <card number="1" name="Cleaving Sliver"/>
+        <card number="1" name="Cloudshredder Sliver"/>
+        <card number="1" name="Lavabelly Sliver"/>
+        <card number="1" name="Hollowhead Sliver"/>
+        <card number="1" name="Dregscape Sliver"/>
+        <card number="1" name="Spiteful Sliver"/>
+        <card number="1" name="First Sliver's Chosen"/>
+        <card number="1" name="Enduring Sliver"/>
+        <card number="1" name="The First Sliver"/>
+        <card number="1" name="Tempered Sliver"/>
+        <card number="1" name="Bladeback Sliver"/>
+        <card number="1" name="Lancer Sliver"/>
+        <card number="4" name="Sliver Queen"/>
+        <card number="1" name="Synchronous Sliver"/>
+        <card number="1" name="Reflex Sliver"/>
+        <card number="1" name="Cautery Sliver"/>
+        <card number="1" name="Poultice Sliver"/>
+        <card number="1" name="Darkheart Sliver"/>
+        <card number="1" name="Dormant Sliver"/>
+        <card number="1" name="Battering Sliver"/>
+        <card number="1" name="Spitting Sliver"/>
+        <card number="1" name="Frenetic Sliver"/>
+        <card number="2" name="Sedge Sliver"/>
+        <card number="1" name="Sliver Queen Avatar"/>
+        <card number="1" name="Sliver Queen, Brood Mother"/>
+        <card number="1" name="Talon Sliver"/>
+        <card number="1" name="Mindwhip Sliver"/>
+        <card number="2" name="Horned Sliver"/>
+        <card number="2" name="Mnemonic Sliver"/>
+        <card number="1" name="Bonesplitter Sliver"/>
+        <card number="1" name="Pulmonic Sliver"/>
+        <card number="1" name="Venser's Sliver"/>
+        <card number="1" name="Plague Sliver"/>
+        <card number="1" name="Ghostflame Sliver"/>
+        <card number="1" name="Shadow Sliver"/>
+        <card number="1" name="Screeching Sliver"/>
+        <card number="1" name="Basal Sliver"/>
+        <card number="1" name="Quilled Sliver"/>
+        <card number="1" name="Dementia Sliver"/>
+        <card number="1" name="Mindlash Sliver"/>
+        <card number="1" name="Spinneret Sliver"/>
+        <card number="1" name="Psionic Sliver"/>
+        <card number="1" name="Two-Headed Sliver"/>
+        <card number="1" name="Opaline Sliver"/>
+        <card number="1" name="Vampiric Sliver"/>
+        <card number="1" name="Telekinetic Sliver"/>
+        <card number="1" name="Firewake Sliver"/>
+        <card number="1" name="Sidewinder Sliver"/>
+        <card number="1" name="Watcher Sliver"/>
+    </zone>
+    <zone name="tokens">
+        <card number="1" name="Metallic Sliver (Token)"/>
+        <card number="4" name="Sliver"/>
+    </zone>
+</cockatrice_deck>
