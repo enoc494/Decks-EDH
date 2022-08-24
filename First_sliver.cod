@@ -46,6 +46,11 @@
         <card number="1" name="Yawgmoth's Will"/>
         <card number="1" name="Brain Freeze"/>
         <card number="1" name="Boreal Druid"/>
+        <card number="1" name="Kitchen Imp"/>
+        <card number="1" name="Tarnished Citadel"/>
+        <card number="1" name="Imperial Seal"/>
+        <card number="1" name="Inevitable Betrayal"/>
+        <card number="1" name="Wheel of Fortune"/>
     </zone>
     <zone name="main">
         <card number="1" name="Jace, Wielder of Mysteries"/>
@@ -67,7 +72,7 @@
         <card number="1" name="Mystic Remora"/>
         <card number="1" name="Necropotence"/>
         <card number="1" name="Sylvan Library"/>
-        <card number="2" name="Sterling Grove"/>
+        <card number="1" name="Sterling Grove"/>
         <card number="1" name="Ad Nauseam"/>
         <card number="1" name="Abrupt Decay"/>
         <card number="1" name="Assassin's Trophy"/>
@@ -129,10 +134,8 @@
         <card number="1" name="Noxious Revival"/>
         <card number="1" name="Angel's Grace"/>
         <card number="1" name="Exotic Orchard"/>
-        <card number="1" name="Tarnished Citadel"/>
         <card number="1" name="Goblin Bombardment"/>
         <card number="1" name="Underworld Breach"/>
-        <card number="1" name="Wheel of Fortune"/>
         <card number="1" name="Brainstorm"/>
         <card number="1" name="Dispel"/>
         <card number="1" name="Veil of Summer"/>
@@ -144,12 +147,9 @@
         <card number="1" name="Auriok Salvagers"/>
         <card number="1" name="Deathrite Shaman"/>
         <card number="1" name="Grim Tutor"/>
-        <card number="1" name="Imperial Seal"/>
         <card number="1" name="Diabolic Intent"/>
-        <card number="2" name="Ignoble Hierarch"/>
-        <card number="1" name="Kitchen Imp"/>
-        <card number="2" name="Profane Tutor"/>
-        <card number="1" name="Inevitable Betrayal"/>
+        <card number="1" name="Ignoble Hierarch"/>
+        <card number="1" name="Profane Tutor"/>
         <card number="1" name="Suspend"/>
         <card number="1" name="Esper Sentinel"/>
     </zone>

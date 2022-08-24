@@ -5,20 +5,16 @@
     <zone name="main">
         <card number="1" name="Harmonic Sliver"/>
         <card number="1" name="Hibernation Sliver"/>
-        <card number="1" name="Galerider Sliver"/>
         <card number="1" name="Cloudshredder Sliver"/>
-        <card number="1" name="Root Sliver"/>
         <card number="1" name="Gemhide Sliver"/>
         <card number="1" name="Heart Sliver"/>
         <card number="1" name="Dregscape Sliver"/>
         <card number="1" name="Manaweft Sliver"/>
-        <card number="1" name="Homing Sliver"/>
         <card number="1" name="Crystalline Sliver"/>
         <card number="1" name="Frenetic Sliver"/>
         <card number="1" name="Quick Sliver"/>
         <card number="1" name="Sliver Hive"/>
         <card number="1" name="The First Sliver"/>
-        <card number="1" name="Biomancer's Familiar"/>
         <card number="1" name="Island"/>
         <card number="4" name="Forest"/>
         <card number="1" name="Swamp"/>
@@ -34,11 +30,9 @@
         <card number="1" name="Training Grounds"/>
         <card number="1" name="Cavern of Souls"/>
         <card number="1" name="Force of Vigor"/>
-        <card number="1" name="Morophon, the Boundless"/>
         <card number="1" name="Command Tower"/>
         <card number="1" name="Prismatic Vista"/>
         <card number="1" name="Unclaimed Territory"/>
-        <card number="1" name="Cryptolith Rite"/>
         <card number="1" name="Bloom Tender"/>
         <card number="1" name="Intruder Alarm"/>
         <card number="1" name="Exotic Orchard"/>
@@ -47,7 +41,6 @@
         <card number="1" name="Stomping Ground"/>
         <card number="1" name="Overgrown Tomb"/>
         <card number="1" name="Breeding Pool"/>
-        <card number="1" name="Sliver Legion"/>
         <card number="1" name="Steam Vents"/>
         <card number="1" name="Watery Grave"/>
         <card number="1" name="Hallowed Fountain"/>
@@ -55,9 +48,7 @@
         <card number="1" name="Hinterland Harbor"/>
         <card number="1" name="Idyllic Tutor"/>
         <card number="1" name="Birds of Paradise"/>
-        <card number="1" name="Dormant Sliver"/>
         <card number="1" name="Teferi's Protection"/>
-        <card number="1" name="Darkheart Sliver"/>
         <card number="1" name="Arcane Signet"/>
         <card number="1" name="Eladamri's Call"/>
         <card number="1" name="Zagoth Triome"/>
@@ -71,34 +62,43 @@
         <card number="1" name="Green Sun's Zenith"/>
         <card number="1" name="Sacred Foundry"/>
         <card number="1" name="Godless Shrine"/>
-        <card number="1" name="Mana Echoes"/>
         <card number="1" name="Call of the Death-Dweller"/>
         <card number="1" name="Mana Crypt"/>
         <card number="1" name="Sensei's Divining Top"/>
+        <card number="1" name="Necrotic Sliver"/>
         <card number="1" name="Swan Song"/>
         <card number="1" name="Sliver Queen"/>
         <card number="1" name="Basal Sliver"/>
         <card number="1" name="Dryad Arbor"/>
         <card number="1" name="Dovin's Veto"/>
-        <card number="1" name="Cautery Sliver"/>
-        <card number="1" name="Ashnod's Altar"/>
         <card number="1" name="Three Visits"/>
         <card number="1" name="Mana Confluence"/>
-        <card number="1" name="The Great Henge"/>
         <card number="1" name="Demonic Tutor"/>
         <card number="1" name="Vampiric Tutor"/>
         <card number="1" name="Fierce Guardianship"/>
-        <card number="1" name="Drown in the Loch"/>
         <card number="1" name="Swords to Plowshares"/>
         <card number="1" name="Opposition Agent"/>
         <card number="1" name="Scroll Rack"/>
         <card number="1" name="Chrome Mox"/>
         <card number="1" name="Flusterstorm"/>
-        <card number="1" name="Boros Charm"/>
         <card number="1" name="Simic Charm"/>
         <card number="1" name="Noble Hierarch"/>
         <card number="1" name="Ornithopter of Paradise"/>
         <card number="1" name="Ignoble Hierarch"/>
+        <card number="1" name="Survival of the Fittest"/>
+        <card number="1" name="Freed from the Real"/>
+        <card number="1" name="Chord of Calling"/>
+        <card number="1" name="Eldritch Evolution"/>
+        <card number="1" name="Faeburrow Elder"/>
+        <card number="1" name="Pemmin's Aura"/>
+        <card number="1" name="Lavabelly Sliver"/>
+        <card number="1" name="Sanctum Weaver"/>
+        <card number="1" name="Heartstone"/>
+        <card number="1" name="Profane Tutor"/>
+        <card number="1" name="Mystical Tutor"/>
+        <card number="1" name="Enlightened Tutor"/>
+        <card number="1" name="Concordant Crossroads"/>
+        <card number="1" name="Mass Hysteria"/>
     </zone>
     <zone name="side">
         <card number="1" name="Path to Exile"/>
@@ -137,7 +137,6 @@
         <card number="1" name="Blasphemous Act"/>
         <card number="1" name="Caravan Vigil"/>
         <card number="1" name="Magma Sliver"/>
-        <card number="1" name="Heartstone"/>
         <card number="1" name="Dubious Challenge"/>
         <card number="1" name="Genesis Wave"/>
         <card number="1" name="Eerie Interlude"/>
@@ -151,8 +150,7 @@
         <card number="1" name="Ghostflame Sliver"/>
         <card number="1" name="Sentinel Sliver"/>
         <card number="1" name="Jasconian Isle"/>
-        <card number="1" name="Boros Charm"/>
-        <card number="1" name="Lavabelly Sliver"/>
+        <card number="2" name="Boros Charm"/>
         <card number="1" name="Syphon Sliver"/>
         <card number="1" name="Blur Sliver"/>
         <card number="1" name="Flawless Maneuver"/>
@@ -172,10 +170,9 @@
         <card number="1" name="Bring to Light"/>
         <card number="1" name="Court of Grace"/>
         <card number="1" name="Court of Bounty"/>
-        <card number="1" name="Noble Hierarch"/>
         <card number="1" name="Deflecting Swat"/>
         <card number="1" name="Utopia Sprawl"/>
-        <card number="1" name="Mana Echoes"/>
+        <card number="2" name="Mana Echoes"/>
         <card number="1" name="Akroma's Will"/>
         <card number="1" name="Kodama's Reach"/>
         <card number="1" name="Chromatic Orrery"/>
@@ -190,8 +187,22 @@
         <card number="1" name="Stubborn Denial"/>
         <card number="1" name="Counterspell"/>
         <card number="1" name="Sylvan Library"/>
+        <card number="1" name="Biomancer's Familiar"/>
+        <card number="1" name="Darkheart Sliver"/>
+        <card number="1" name="Dormant Sliver"/>
+        <card number="1" name="Sliver Legion"/>
         <card number="1" name="Edge of Autumn"/>
-        <card number="1" name="Necrotic Sliver"/>
+        <card number="1" name="Abundant Harvest"/>
+        <card number="1" name="Galerider Sliver"/>
+        <card number="1" name="Homing Sliver"/>
+        <card number="1" name="Cryptolith Rite"/>
+        <card number="1" name="The Great Henge"/>
+        <card number="1" name="Cautery Sliver"/>
+        <card number="1" name="Morophon, the Boundless"/>
+        <card number="1" name="Root Sliver"/>
+        <card number="1" name="Drown in the Loch"/>
+        <card number="1" name="Ashnod's Altar"/>
         <card number="1" name="Living Death"/>
+        <card number="1" name="Zaxara, the Exemplary"/>
     </zone>
 </cockatrice_deck>

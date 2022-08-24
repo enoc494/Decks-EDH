@@ -4,31 +4,11 @@
     <comments></comments>
     <zone name="main">
         <card number="1" name="Wall of Stolen Identity"/>
-        <card number="1" name="Crashing Drawbridge"/>
-        <card number="1" name="Fell the Mighty"/>
-        <card number="1" name="Guard Gomazoa"/>
-        <card number="1" name="Generous Gift"/>
-        <card number="1" name="Beast Within"/>
-        <card number="1" name="Wave of Reckoning"/>
-        <card number="1" name="Hinterland Harbor"/>
-        <card number="1" name="Sunpetal Grove"/>
         <card number="1" name="Crab Umbra"/>
-        <card number="1" name="Wall of Junk"/>
-        <card number="1" name="Wall of Lost Thoughts"/>
-        <card number="1" name="Wall of Glare"/>
         <card number="1" name="High Alert"/>
         <card number="1" name="Angelic Shield"/>
-        <card number="1" name="Voidslime"/>
         <card number="1" name="Tower Defense"/>
         <card number="1" name="Lignify"/>
-        <card number="1" name="Axebane Guardian"/>
-        <card number="1" name="Slaughter the Strong"/>
-        <card number="1" name="Hallowed Fountain"/>
-        <card number="1" name="Breeding Pool"/>
-        <card number="1" name="Canopy Vista"/>
-        <card number="1" name="Temple Garden"/>
-        <card number="1" name="Familiar's Ruse"/>
-        <card number="1" name="Glacial Fortress"/>
     </zone>
     <zone name="side">
         <card number="1" name="Drift of Phantasms"/>
@@ -40,5 +20,25 @@
         <card number="1" name="Wall of Denial"/>
         <card number="1" name="Wall of Omens"/>
         <card number="1" name="Guardian Project"/>
+        <card number="1" name="Crashing Drawbridge"/>
+        <card number="1" name="Guard Gomazoa"/>
+        <card number="1" name="Wall of Glare"/>
+        <card number="1" name="Wall of Junk"/>
+        <card number="1" name="Wall of Lost Thoughts"/>
+        <card number="1" name="Beast Within"/>
+        <card number="1" name="Familiar's Ruse"/>
+        <card number="1" name="Generous Gift"/>
+        <card number="1" name="Voidslime"/>
+        <card number="1" name="Canopy Vista"/>
+        <card number="1" name="Breeding Pool"/>
+        <card number="1" name="Glacial Fortress"/>
+        <card number="1" name="Hallowed Fountain"/>
+        <card number="1" name="Hinterland Harbor"/>
+        <card number="1" name="Sunpetal Grove"/>
+        <card number="1" name="Temple Garden"/>
+        <card number="1" name="Fell the Mighty"/>
+        <card number="1" name="Slaughter the Strong"/>
+        <card number="1" name="Wave of Reckoning"/>
+        <card number="1" name="Axebane Guardian"/>
     </zone>
 </cockatrice_deck>
