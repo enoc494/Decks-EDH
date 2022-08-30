@@ -18,61 +18,46 @@
         <card number="1" name="Quick Sliver"/>
         <card number="1" name="Sliver Hive"/>
         <card number="1" name="The First Sliver"/>
-        <card number="1" name="Biomancer's Familiar"/>
         <card number="1" name="Island"/>
-        <card number="4" name="Forest"/>
+        <card number="1" name="Forest"/>
         <card number="1" name="Swamp"/>
         <card number="1" name="Mountain"/>
         <card number="1" name="Plains"/>
-        <card number="1" name="Farseek"/>
         <card number="1" name="Sol Ring"/>
         <card number="1" name="Cyclonic Rift"/>
-        <card number="1" name="Patriarch's Bidding"/>
-        <card number="1" name="Path of Ancestry"/>
-        <card number="1" name="Land Grant"/>
-        <card number="1" name="Safewright Quest"/>
         <card number="1" name="Training Grounds"/>
         <card number="1" name="Cavern of Souls"/>
         <card number="1" name="Force of Vigor"/>
         <card number="1" name="Morophon, the Boundless"/>
         <card number="1" name="Command Tower"/>
         <card number="1" name="Prismatic Vista"/>
-        <card number="1" name="Unclaimed Territory"/>
         <card number="1" name="Cryptolith Rite"/>
         <card number="1" name="Bloom Tender"/>
         <card number="1" name="Intruder Alarm"/>
         <card number="1" name="Exotic Orchard"/>
-        <card number="1" name="Into the North"/>
         <card number="1" name="Temple Garden"/>
         <card number="1" name="Stomping Ground"/>
         <card number="1" name="Overgrown Tomb"/>
         <card number="1" name="Breeding Pool"/>
-        <card number="1" name="Sliver Legion"/>
         <card number="1" name="Steam Vents"/>
         <card number="1" name="Watery Grave"/>
         <card number="1" name="Hallowed Fountain"/>
-        <card number="1" name="Sunpetal Grove"/>
-        <card number="1" name="Hinterland Harbor"/>
         <card number="1" name="Idyllic Tutor"/>
         <card number="1" name="Birds of Paradise"/>
         <card number="1" name="Dormant Sliver"/>
         <card number="1" name="Teferi's Protection"/>
-        <card number="1" name="Darkheart Sliver"/>
         <card number="1" name="Arcane Signet"/>
         <card number="1" name="Eladamri's Call"/>
         <card number="1" name="Zagoth Triome"/>
         <card number="1" name="Ketria Triome"/>
-        <card number="1" name="Woodland Cemetery"/>
         <card number="1" name="Worldly Tutor"/>
         <card number="1" name="Nature's Lore"/>
-        <card number="1" name="Indatha Triome"/>
         <card number="1" name="Uncage the Menagerie"/>
         <card number="1" name="Rootbound Crag"/>
         <card number="1" name="Green Sun's Zenith"/>
         <card number="1" name="Sacred Foundry"/>
         <card number="1" name="Godless Shrine"/>
         <card number="1" name="Mana Echoes"/>
-        <card number="1" name="Call of the Death-Dweller"/>
         <card number="1" name="Mana Crypt"/>
         <card number="1" name="Sensei's Divining Top"/>
         <card number="1" name="Swan Song"/>
@@ -84,21 +69,39 @@
         <card number="1" name="Ashnod's Altar"/>
         <card number="1" name="Three Visits"/>
         <card number="1" name="Mana Confluence"/>
-        <card number="1" name="The Great Henge"/>
         <card number="1" name="Demonic Tutor"/>
         <card number="1" name="Vampiric Tutor"/>
         <card number="1" name="Fierce Guardianship"/>
-        <card number="1" name="Drown in the Loch"/>
         <card number="1" name="Swords to Plowshares"/>
         <card number="1" name="Opposition Agent"/>
         <card number="1" name="Scroll Rack"/>
         <card number="1" name="Chrome Mox"/>
         <card number="1" name="Flusterstorm"/>
-        <card number="1" name="Boros Charm"/>
-        <card number="1" name="Simic Charm"/>
         <card number="1" name="Noble Hierarch"/>
         <card number="1" name="Ornithopter of Paradise"/>
         <card number="1" name="Ignoble Hierarch"/>
+        <card number="1" name="Mox Diamond"/>
+        <card number="1" name="Lavabelly Sliver"/>
+        <card number="1" name="Mystic Remora"/>
+        <card number="1" name="Rhystic Study"/>
+        <card number="1" name="Survival of the Fittest"/>
+        <card number="1" name="Concordant Crossroads"/>
+        <card number="1" name="Mass Hysteria"/>
+        <card number="1" name="Assassin's Trophy"/>
+        <card number="1" name="Deflecting Swat"/>
+        <card number="1" name="Enlightened Tutor"/>
+        <card number="1" name="Veil of Summer"/>
+        <card number="1" name="Miscast"/>
+        <card number="1" name="Necrotic Sliver"/>
+        <card number="1" name="Forbidden Orchard"/>
+        <card number="1" name="Spara's Headquarters"/>
+        <card number="1" name="City of Brass"/>
+        <card number="1" name="Gemstone Caverns"/>
+        <card number="1" name="Misty Rainforest"/>
+        <card number="1" name="Verdant Catacombs"/>
+        <card number="1" name="Windswept Heath"/>
+        <card number="1" name="Eldritch Evolution"/>
+        <card number="1" name="Esper Sentinel"/>
     </zone>
     <zone name="side">
         <card number="1" name="Path to Exile"/>
@@ -151,7 +154,7 @@
         <card number="1" name="Ghostflame Sliver"/>
         <card number="1" name="Sentinel Sliver"/>
         <card number="1" name="Jasconian Isle"/>
-        <card number="1" name="Boros Charm"/>
+        <card number="2" name="Boros Charm"/>
         <card number="1" name="Lavabelly Sliver"/>
         <card number="1" name="Syphon Sliver"/>
         <card number="1" name="Blur Sliver"/>
@@ -193,5 +196,25 @@
         <card number="1" name="Edge of Autumn"/>
         <card number="1" name="Necrotic Sliver"/>
         <card number="1" name="Living Death"/>
+        <card number="1" name="The Great Henge"/>
+        <card number="1" name="Biomancer's Familiar"/>
+        <card number="1" name="Sliver Legion"/>
+        <card number="1" name="Drown in the Loch"/>
+        <card number="1" name="Simic Charm"/>
+        <card number="1" name="Darkheart Sliver"/>
+        <card number="1" name="Call of the Death-Dweller"/>
+        <card number="1" name="Farseek"/>
+        <card number="1" name="Into the North"/>
+        <card number="1" name="Land Grant"/>
+        <card number="1" name="Patriarch's Bidding"/>
+        <card number="1" name="Safewright Quest"/>
+        <card number="1" name="Path of Ancestry"/>
+        <card number="1" name="Unclaimed Territory"/>
+        <card number="1" name="Indatha Triome"/>
+        <card number="1" name="Woodland Cemetery"/>
+        <card number="1" name="Sunpetal Grove"/>
+        <card number="1" name="Hinterland Harbor"/>
+        <card number="1" name="Axgard Armory"/>
+        <card number="1" name="Wooded Foothills"/>
     </zone>
 </cockatrice_deck>
