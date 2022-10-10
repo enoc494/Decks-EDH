@@ -6,10 +6,10 @@
     <zone name="main">
         <card number="1" name="Crystalline Crawler"/>
         <card number="1" name="Command Tower"/>
-        <card number="2" name="Plains"/>
-        <card number="2" name="Island"/>
+        <card number="1" name="Plains"/>
+        <card number="1" name="Island"/>
         <card number="1" name="Swamp"/>
-        <card number="2" name="Forest"/>
+        <card number="1" name="Forest"/>
         <card number="1" name="Blighted Agent"/>
         <card number="1" name="Glistener Elf"/>
         <card number="1" name="Ichor Rats"/>
@@ -77,27 +77,33 @@
         <card number="1" name="Priests of Norn"/>
         <card number="1" name="Baleful Strix"/>
         <card number="1" name="Mana Crypt"/>
-        <card number="1" name="Fellwar Stone"/>
         <card number="1" name="Sphere of the Suns"/>
         <card number="1" name="Ornithopter of Paradise"/>
         <card number="1" name="Teferi, Master of Time"/>
         <card number="1" name="Rhystic Study"/>
         <card number="1" name="Garruk, Unleashed"/>
-        <card number="1" name="Swiftfoot Boots"/>
         <card number="1" name="Golgari Signet"/>
-        <card number="1" name="Morphic Pool"/>
-        <card number="1" name="Rejuvenating Springs"/>
-        <card number="1" name="Vault of Champions"/>
-        <card number="1" name="Sea of Clouds"/>
-        <card number="1" name="Undergrowth Stadium"/>
-        <card number="1" name="Bountiful Promenade"/>
         <card number="1" name="Birds of Paradise"/>
         <card number="1" name="Noble Hierarch"/>
-        <card number="1" name="Lost Leonin"/>
-        <card number="1" name="Necropede"/>
         <card number="1" name="Farseek"/>
         <card number="1" name="Inexorable Tide"/>
-        <card number="1" name="Dispel"/>
+        <card number="1" name="Marsh Flats"/>
+        <card number="1" name="Flooded Strand"/>
+        <card number="1" name="Misty Rainforest"/>
+        <card number="1" name="Verdant Catacombs"/>
+        <card number="1" name="Windswept Heath"/>
+        <card number="1" name="Polluted Delta"/>
+        <card number="1" name="Tamiyo, Field Researcher"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Everflowing Chalice"/>
+        <card number="1" name="Umezawa's Jitte"/>
+        <card number="1" name="The Ozolith"/>
+        <card number="1" name="Talisman of Unity"/>
+        <card number="1" name="Talisman of Hierarchy"/>
+        <card number="1" name="Talisman of Dominance"/>
+        <card number="1" name="Talisman of Curiosity"/>
+        <card number="1" name="Talisman of Progress"/>
+        <card number="1" name="Soul Diviner"/>
     </zone>
     <zone name="side">
         <card number="2" name="Seaside Citadel"/>
@@ -108,7 +114,7 @@
         <card number="1" name="Overgrown Tomb"/>
         <card number="1" name="Temple Garden"/>
         <card number="1" name="Twilight Mire"/>
-        <card number="1" name="Fellwar Stone"/>
+        <card number="2" name="Fellwar Stone"/>
         <card number="1" name="Myojin of Life's Web"/>
         <card number="1" name="Sylvan Reclamation"/>
         <card number="2" name="Tainted Strike"/>
@@ -249,7 +255,7 @@
         <card number="1" name="Ugin, the Spirit Dragon"/>
         <card number="1" name="Supreme Verdict"/>
         <card number="1" name="Shalai, Voice of Plenty"/>
-        <card number="1" name="Swiftfoot Boots"/>
+        <card number="2" name="Swiftfoot Boots"/>
         <card number="1" name="Whispersilk Cloak"/>
         <card number="1" name="Raffine's Tower"/>
         <card number="1" name="Spara's Headquarters"/>
@@ -271,5 +277,15 @@
         <card number="1" name="Sylvan Library"/>
         <card number="1" name="Damn"/>
         <card number="1" name="Nature's Lore"/>
+        <card number="1" name="Bountiful Promenade"/>
+        <card number="1" name="Morphic Pool"/>
+        <card number="1" name="Rejuvenating Springs"/>
+        <card number="1" name="Sea of Clouds"/>
+        <card number="1" name="Undergrowth Stadium"/>
+        <card number="1" name="Vault of Champions"/>
+        <card number="1" name="Talisman of Creativity"/>
+        <card number="1" name="Necropede"/>
+        <card number="1" name="Lost Leonin"/>
+        <card number="1" name="Dispel"/>
     </zone>
 </cockatrice_deck>

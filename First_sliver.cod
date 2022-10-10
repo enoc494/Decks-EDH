@@ -4,53 +4,24 @@
     <comments></comments>
     <zone name="side">
         <card number="1" name="The First Sliver"/>
-        <card number="1" name="Prismatic Vista"/>
-        <card number="1" name="Glacial Chasm"/>
-        <card number="1" name="Holdout Settlement"/>
-        <card number="1" name="Green Sun's Zenith"/>
-        <card number="1" name="Academy Rector"/>
-        <card number="1" name="Sliver Queen"/>
-        <card number="1" name="Mana Echoes"/>
-        <card number="1" name="Gemhide Sliver"/>
-        <card number="1" name="Manaweft Sliver"/>
-        <card number="1" name="Survival of the Fittest"/>
         <card number="1" name="Spoils of the Vault"/>
-        <card number="1" name="Wild Cantor"/>
         <card number="1" name="Gamble"/>
-        <card number="1" name="Wall of Roots"/>
-        <card number="1" name="Aether Hub"/>
-        <card number="1" name="Defense Grid"/>
-        <card number="1" name="Chromatic Star"/>
-        <card number="1" name="Temur Sabertooth"/>
-        <card number="1" name="Dockside Extortionist"/>
-        <card number="1" name="Tendrils of Agony"/>
-        <card number="1" name="Manamorphose"/>
-        <card number="1" name="Grapeshot"/>
-        <card number="1" name="Walking Ballista"/>
         <card number="1" name="Memory's Journey"/>
-        <card number="1" name="Aetherflux Reservoir"/>
-        <card number="1" name="Isochron Scepter"/>
         <card number="1" name="Dramatic Reversal"/>
-        <card number="1" name="Idyllic Tutor"/>
-        <card number="1" name="Intuition"/>
-        <card number="1" name="Merchant Scroll"/>
-        <card number="1" name="Altar of Dementia"/>
-        <card number="1" name="Diminishing Returns"/>
-        <card number="1" name="Reap"/>
-        <card number="1" name="Sacred Foundry"/>
-        <card number="1" name="Arid Mesa"/>
-        <card number="1" name="Stomping Ground"/>
-        <card number="2" name="Temple Garden"/>
-        <card number="1" name="Divining Witch"/>
-        <card number="1" name="Wishclaw Talisman"/>
+        <card number="1" name="Preordain"/>
+        <card number="1" name="Ponder"/>
+        <card number="1" name="Morphic Pool"/>
+        <card number="1" name="Noxious Revival"/>
+        <card number="1" name="Elvish Spirit Guide"/>
+        <card number="1" name="Vexing Shusher"/>
+        <card number="1" name="Walking Ballista"/>
+        <card number="1" name="Suspend"/>
         <card number="1" name="Yawgmoth's Will"/>
-        <card number="1" name="Brain Freeze"/>
-        <card number="1" name="Boreal Druid"/>
-        <card number="1" name="Kitchen Imp"/>
-        <card number="1" name="Tarnished Citadel"/>
-        <card number="1" name="Imperial Seal"/>
-        <card number="1" name="Inevitable Betrayal"/>
-        <card number="1" name="Wheel of Fortune"/>
+        <card number="1" name="Crumbling Vestige"/>
+        <card number="1" name="Exotic Orchard"/>
+        <card number="1" name="Wooded Foothills"/>
+        <card number="1" name="Windswept Heath"/>
+        <card number="1" name="Culling Ritual"/>
     </zone>
     <zone name="main">
         <card number="1" name="Jace, Wielder of Mysteries"/>
@@ -97,8 +68,6 @@
         <card number="1" name="Foresight"/>
         <card number="1" name="Gitaxian Probe"/>
         <card number="1" name="Manipulate Fate"/>
-        <card number="1" name="Ponder"/>
-        <card number="1" name="Preordain"/>
         <card number="1" name="Llanowar Elves"/>
         <card number="1" name="Noble Hierarch"/>
         <card number="1" name="Elvish Mystic"/>
@@ -107,15 +76,12 @@
         <card number="1" name="Avacyn's Pilgrim"/>
         <card number="1" name="Birds of Paradise"/>
         <card number="1" name="Dark Confidant"/>
-        <card number="1" name="Vexing Shusher"/>
         <card number="1" name="Dark Ritual"/>
         <card number="1" name="Marsh Flats"/>
         <card number="1" name="Scalding Tarn"/>
         <card number="1" name="Verdant Catacombs"/>
         <card number="1" name="Misty Rainforest"/>
         <card number="1" name="Polluted Delta"/>
-        <card number="1" name="Wooded Foothills"/>
-        <card number="1" name="Windswept Heath"/>
         <card number="1" name="Bloodstained Mire"/>
         <card number="1" name="Flooded Strand"/>
         <card number="1" name="Breeding Pool"/>
@@ -129,11 +95,8 @@
         <card number="1" name="Command Tower"/>
         <card number="1" name="Forbidden Orchard"/>
         <card number="1" name="Mana Confluence"/>
-        <card number="1" name="Crumbling Vestige"/>
         <card number="1" name="Gemstone Mine"/>
-        <card number="1" name="Noxious Revival"/>
         <card number="1" name="Angel's Grace"/>
-        <card number="1" name="Exotic Orchard"/>
         <card number="1" name="Goblin Bombardment"/>
         <card number="1" name="Underworld Breach"/>
         <card number="1" name="Brainstorm"/>
@@ -143,14 +106,22 @@
         <card number="1" name="Underground River"/>
         <card number="1" name="Llanowar Wastes"/>
         <card number="1" name="Yavimaya Coast"/>
-        <card number="1" name="Morphic Pool"/>
         <card number="1" name="Auriok Salvagers"/>
         <card number="1" name="Deathrite Shaman"/>
-        <card number="1" name="Grim Tutor"/>
         <card number="1" name="Diabolic Intent"/>
         <card number="1" name="Ignoble Hierarch"/>
-        <card number="1" name="Profane Tutor"/>
-        <card number="1" name="Suspend"/>
         <card number="1" name="Esper Sentinel"/>
+        <card number="1" name="Opposition Agent"/>
+        <card number="1" name="Wishclaw Talisman"/>
+        <card number="1" name="Dockside Extortionist"/>
+        <card number="1" name="Brain Freeze"/>
+        <card number="1" name="Ornithopter of Paradise"/>
+        <card number="1" name="Neoform"/>
+        <card number="1" name="Tarnished Citadel"/>
+        <card number="1" name="Wheel of Fortune"/>
+        <card number="1" name="Glimmervoid"/>
+        <card number="1" name="Gemstone Caverns"/>
+        <card number="1" name="Shivan Reef"/>
+        <card number="1" name="Adarkar Wastes"/>
     </zone>
 </cockatrice_deck>

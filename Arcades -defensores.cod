@@ -6,7 +6,6 @@
         <card number="1" name="Command Tower"/>
         <card number="1" name="Steel Wall"/>
         <card number="1" name="Bonded Fetch"/>
-        <card number="1" name="Seaside Citadel"/>
         <card number="1" name="Tetsuko Umezawa, Fugitive"/>
         <card number="1" name="Wall of Blossoms"/>
         <card number="1" name="Wall of Roots"/>
@@ -25,7 +24,7 @@
         <card number="1" name="Wall of Omens"/>
         <card number="1" name="Overgrown Battlement"/>
         <card number="1" name="Shield Sphere"/>
-        <card number="4" name="Island"/>
+        <card number="2" name="Island"/>
         <card number="2" name="Forest"/>
         <card number="2" name="Plains"/>
         <card number="1" name="Wall of Mulch"/>
@@ -45,18 +44,12 @@
         <card number="1" name="Predict"/>
         <card number="1" name="Dispel"/>
         <card number="1" name="Disallow"/>
-        <card number="1" name="Abzan Beastmaster"/>
         <card number="1" name="Krosan Verge"/>
-        <card number="1" name="Terramorphic Expanse"/>
-        <card number="1" name="Evolving Wilds"/>
         <card number="1" name="Slaughter the Strong"/>
         <card number="1" name="Breeding Pool"/>
         <card number="1" name="Hallowed Fountain"/>
-        <card number="1" name="Prairie Stream"/>
         <card number="1" name="Temple Garden"/>
         <card number="1" name="Teferi's Protection"/>
-        <card number="1" name="Sublime Epiphany"/>
-        <card number="1" name="Axebane Guardian"/>
         <card number="1" name="Drift of Phantasms"/>
         <card number="1" name="Riptide Turtle"/>
         <card number="1" name="Sunscape Familiar"/>
@@ -71,20 +64,12 @@
         <card number="1" name="Stifle"/>
         <card number="1" name="Foreshadow"/>
         <card number="1" name="Unsubstantiate"/>
-        <card number="1" name="Temple of Mystery"/>
-        <card number="1" name="Temple of Enlightenment"/>
         <card number="1" name="Veil of Summer"/>
         <card number="1" name="Gush"/>
         <card number="1" name="Sidar Kondo of Jamuraa"/>
         <card number="1" name="Castle Vantress"/>
-        <card number="1" name="Armillary Sphere"/>
         <card number="1" name="Path to Exile"/>
         <card number="1" name="Memory Lapse"/>
-        <card number="1" name="Silundi Vision"/>
-        <card number="1" name="Simic Growth Chamber"/>
-        <card number="1" name="Temple of Plenty"/>
-        <card number="1" name="Azorius Chancery"/>
-        <card number="1" name="Selesnya Sanctuary"/>
         <card number="1" name="Commit // Memory"/>
         <card number="1" name="Dusk // Dawn"/>
         <card number="1" name="Failure // Comply"/>
@@ -93,16 +78,66 @@
         <card number="1" name="Narset's Reversal"/>
         <card number="1" name="Wall of Tanglecord"/>
         <card number="1" name="Hengegate Pathway"/>
-        <card number="1" name="Hinterland Harbor"/>
-        <card number="1" name="Rejuvenating Springs"/>
         <card number="1" name="Branchloft Pathway"/>
         <card number="1" name="Barkchannel Pathway"/>
+        <card number="1" name="Reliquary Tower"/>
+        <card number="1" name="Flooded Strand"/>
+        <card number="1" name="Misty Rainforest"/>
+        <card number="1" name="Windswept Heath"/>
+        <card number="1" name="Portent"/>
+        <card number="1" name="Disappearing Act"/>
+        <card number="1" name="Axebane Guardian"/>
+        <card number="1" name="Flusterstorm"/>
+        <card number="1" name="Sanctum Weaver"/>
+        <card number="1" name="Pemmin's Aura"/>
+        <card number="1" name="Freed from the Real"/>
+        <card number="1" name="Wilderness Reclamation"/>
+        <card number="1" name="Faeburrow Elder"/>
+        <card number="1" name="Aegis of the Heavens"/>
+        <card number="1" name="Mizzium Skin"/>
+        <card number="1" name="Stoneskin"/>
+        <card number="1" name="Shield-Wall Sentinel"/>
+        <card number="1" name="Walking Bulwark"/>
+        <card number="1" name="Rasaad, Monk of Selûne"/>
+        <card number="1" name="Prairie Stream"/>
+        <card number="1" name="Canopy Vista"/>
+        <card number="1" name="Mana Crypt"/>
+        <card number="1" name="Commandeer"/>
+        <card number="1" name="Foil"/>
+        <card number="1" name="Naturalize"/>
+        <card number="1" name="Cancel"/>
+        <card number="1" name="Faith's Reward"/>
+        <card number="1" name="Semester's End"/>
+        <card number="1" name="Return to Dust"/>
+        <card number="1" name="Return to Nature"/>
+        <card number="1" name="Ghostway"/>
+        <card number="1" name="Arcane Denial"/>
+        <card number="1" name="Krosan Grip"/>
+        <card number="1" name="Bant Charm"/>
+        <card number="1" name="Growth Spiral"/>
+        <card number="1" name="Negate"/>
+        <card number="1" name="Bar the Door"/>
+        <card number="1" name="Counterspell"/>
+        <card number="1" name="Eerie Interlude"/>
+        <card number="1" name="Swords to Plowshares"/>
+        <card number="1" name="Wave of Reckoning"/>
+        <card number="1" name="Return to the Ranks"/>
+        <card number="1" name="Search for Tomorrow"/>
+        <card number="1" name="Slagwurm Armor"/>
+        <card number="1" name="Mirror Shield"/>
+        <card number="1" name="Brave the Sands"/>
+        <card number="1" name="Angelic Shield"/>
+        <card number="1" name="Huatli, the Sun's Heart"/>
+        <card number="1" name="Thought Vessel"/>
+        <card number="1" name="Exotic Orchard"/>
+        <card number="1" name="Dreamroot Cascade"/>
+        <card number="1" name="Deserted Beach"/>
+        <card number="1" name="Yavimaya Coast"/>
     </zone>
     <zone name="side">
         <card number="1" name="Arcades, the Strategist"/>
         <card number="1" name="Blossoming Sands"/>
         <card number="1" name="Marble Titan"/>
-        <card number="1" name="Commandeer"/>
         <card number="1" name="Guardians of Meletis"/>
         <card number="1" name="Annul"/>
         <card number="1" name="Brainstorm"/>
@@ -124,17 +159,17 @@
         <card number="2" name="Graypelt Refuge"/>
         <card number="1" name="Canopy Vista"/>
         <card number="2" name="Sejiri Refuge"/>
-        <card number="1" name="Temple of Plenty"/>
+        <card number="2" name="Temple of Plenty"/>
         <card number="1" name="Circular Logic"/>
-        <card number="2" name="Foil"/>
+        <card number="1" name="Foil"/>
         <card number="1" name="Glacial Wall"/>
         <card number="1" name="Wall of Frost"/>
         <card number="1" name="Wall of Hope"/>
         <card number="1" name="Lawmage's Binding"/>
         <card number="2" name="Reliquary Tower"/>
         <card number="1" name="Reshape"/>
-        <card number="1" name="Selesnya Sanctuary"/>
-        <card number="1" name="Simic Growth Chamber"/>
+        <card number="2" name="Selesnya Sanctuary"/>
+        <card number="2" name="Simic Growth Chamber"/>
         <card number="1" name="Hapatra's Mark"/>
         <card number="1" name="Ranger's Guile"/>
         <card number="2" name="Mizzium Skin"/>
@@ -152,15 +187,14 @@
         <card number="1" name="Angelic Wall"/>
         <card number="1" name="Aegis Turtle"/>
         <card number="1" name="Jaddi Offshoot"/>
-        <card number="1" name="Mana Crypt"/>
         <card number="1" name="Opt"/>
         <card number="1" name="Swiftfoot Boots"/>
         <card number="1" name="Noble Hierarch"/>
         <card number="1" name="Teferi's Ageless Insight"/>
         <card number="2" name="Arcane Denial"/>
-        <card number="1" name="Hinterland Harbor"/>
+        <card number="2" name="Hinterland Harbor"/>
         <card number="1" name="Sunpetal Grove"/>
-        <card number="1" name="Azorius Chancery"/>
+        <card number="2" name="Azorius Chancery"/>
         <card number="1" name="Voidslime"/>
         <card number="1" name="Mana Leak"/>
         <card number="1" name="Dusk"/>
@@ -183,11 +217,24 @@
         <card number="1" name="Disappearing Act"/>
         <card number="1" name="Divert"/>
         <card number="1" name="Negate"/>
-        <card number="1" name="Guardian Project"/>
+        <card number="2" name="Guardian Project"/>
         <card number="1" name="Portent"/>
         <card number="1" name="Mistgate Pathway"/>
         <card number="1" name="Adarkar Wastes"/>
         <card number="1" name="Brushland"/>
         <card number="1" name="Yavimaya Coast"/>
+        <card number="1" name="Rejuvenating Springs"/>
+        <card number="1" name="Seaside Citadel"/>
+        <card number="1" name="Prairie Stream"/>
+        <card number="1" name="Temple of Enlightenment"/>
+        <card number="1" name="Temple of Mystery"/>
+        <card number="1" name="Axebane Guardian"/>
+        <card number="1" name="Abzan Beastmaster"/>
+        <card number="1" name="Flutterfox"/>
+        <card number="1" name="Evolving Wilds"/>
+        <card number="1" name="Terramorphic Expanse"/>
+        <card number="1" name="Armillary Sphere"/>
+        <card number="1" name="Silundi Vision"/>
+        <card number="1" name="Sublime Epiphany"/>
     </zone>
 </cockatrice_deck>

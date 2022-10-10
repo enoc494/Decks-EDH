@@ -7,13 +7,11 @@
         <card number="1" name="Hibernation Sliver"/>
         <card number="1" name="Galerider Sliver"/>
         <card number="1" name="Cloudshredder Sliver"/>
-        <card number="1" name="Root Sliver"/>
         <card number="1" name="Gemhide Sliver"/>
         <card number="1" name="Heart Sliver"/>
         <card number="1" name="Dregscape Sliver"/>
         <card number="1" name="Manaweft Sliver"/>
         <card number="1" name="Homing Sliver"/>
-        <card number="1" name="Crystalline Sliver"/>
         <card number="1" name="Frenetic Sliver"/>
         <card number="1" name="Quick Sliver"/>
         <card number="1" name="Sliver Hive"/>
@@ -34,7 +32,6 @@
         <card number="1" name="Cryptolith Rite"/>
         <card number="1" name="Bloom Tender"/>
         <card number="1" name="Intruder Alarm"/>
-        <card number="1" name="Exotic Orchard"/>
         <card number="1" name="Temple Garden"/>
         <card number="1" name="Stomping Ground"/>
         <card number="1" name="Overgrown Tomb"/>
@@ -53,7 +50,6 @@
         <card number="1" name="Worldly Tutor"/>
         <card number="1" name="Nature's Lore"/>
         <card number="1" name="Uncage the Menagerie"/>
-        <card number="1" name="Rootbound Crag"/>
         <card number="1" name="Green Sun's Zenith"/>
         <card number="1" name="Sacred Foundry"/>
         <card number="1" name="Godless Shrine"/>
@@ -81,17 +77,12 @@
         <card number="1" name="Ornithopter of Paradise"/>
         <card number="1" name="Ignoble Hierarch"/>
         <card number="1" name="Mox Diamond"/>
-        <card number="1" name="Lavabelly Sliver"/>
-        <card number="1" name="Mystic Remora"/>
         <card number="1" name="Rhystic Study"/>
         <card number="1" name="Survival of the Fittest"/>
         <card number="1" name="Concordant Crossroads"/>
-        <card number="1" name="Mass Hysteria"/>
-        <card number="1" name="Assassin's Trophy"/>
         <card number="1" name="Deflecting Swat"/>
         <card number="1" name="Enlightened Tutor"/>
         <card number="1" name="Veil of Summer"/>
-        <card number="1" name="Miscast"/>
         <card number="1" name="Necrotic Sliver"/>
         <card number="1" name="Forbidden Orchard"/>
         <card number="1" name="Spara's Headquarters"/>
@@ -102,6 +93,15 @@
         <card number="1" name="Windswept Heath"/>
         <card number="1" name="Eldritch Evolution"/>
         <card number="1" name="Esper Sentinel"/>
+        <card number="1" name="Reflecting Pool"/>
+        <card number="1" name="Sterling Grove"/>
+        <card number="1" name="Black Market Connections"/>
+        <card number="1" name="Finale of Devastation"/>
+        <card number="1" name="Wooded Foothills"/>
+        <card number="1" name="Wishclaw Talisman"/>
+        <card number="1" name="Lightning Greaves"/>
+        <card number="1" name="Call of the Death-Dweller"/>
+        <card number="1" name="The Great Henge"/>
     </zone>
     <zone name="side">
         <card number="1" name="Path to Exile"/>
@@ -153,9 +153,8 @@
         <card number="1" name="Firewake Sliver"/>
         <card number="1" name="Ghostflame Sliver"/>
         <card number="1" name="Sentinel Sliver"/>
-        <card number="1" name="Jasconian Isle"/>
         <card number="2" name="Boros Charm"/>
-        <card number="1" name="Lavabelly Sliver"/>
+        <card number="2" name="Lavabelly Sliver"/>
         <card number="1" name="Syphon Sliver"/>
         <card number="1" name="Blur Sliver"/>
         <card number="1" name="Flawless Maneuver"/>
@@ -196,7 +195,6 @@
         <card number="1" name="Edge of Autumn"/>
         <card number="1" name="Necrotic Sliver"/>
         <card number="1" name="Living Death"/>
-        <card number="1" name="The Great Henge"/>
         <card number="1" name="Biomancer's Familiar"/>
         <card number="1" name="Sliver Legion"/>
         <card number="1" name="Drown in the Loch"/>
@@ -216,5 +214,13 @@
         <card number="1" name="Hinterland Harbor"/>
         <card number="1" name="Axgard Armory"/>
         <card number="1" name="Wooded Foothills"/>
+        <card number="1" name="Root Sliver"/>
+        <card number="1" name="Rootbound Crag"/>
+        <card number="1" name="Crystalline Sliver"/>
+        <card number="1" name="Mystic Remora"/>
+        <card number="1" name="Mass Hysteria"/>
+        <card number="1" name="Exotic Orchard"/>
+        <card number="1" name="Miscast"/>
+        <card number="1" name="Assassin's Trophy"/>
     </zone>
 </cockatrice_deck>
